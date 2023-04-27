@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Especialista en Ciencia de Datos
+role: Data Science Specialist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -80,6 +80,6 @@ email: ''
 highlight_name: true
 ---
 
-Soy especialista en Inteligencia Artificial y Ciencia de Datos con su aplicación en el área financiera, procesamiento de lenguaje natural y la inteligencia de negocios. Cuento con una formación matemática de alto nivel que me permite adquirir métodos de razonamiento avanzados y una ética de trabajo rigurosa.
+Data Science and Artificial Intelligence specialist with expertise in their application in the financial, industrial, and business intelligence fields. Additionally, experienced in handling databases, I possess a high-level mathematical education that allows me to acquire advanced reasoning methods and a rigorous work ethic.
 
 {style="text-align: justify;"}
