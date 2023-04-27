@@ -46,50 +46,49 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text: 
 
-      education:
-        courses:
-          - course: PhD in Artificial Intelligence
-            institution: Stanford University
-            year: 2012
-          - course: MEng in Artificial Intelligence
-            institution: Massachusetts Institute of Technology
-            year: 2009
-          - course: Ing. Matemática
-            institution: Escuela Politécnica Nacional
-            year: 2021
-
       
   - block: features
     content:
       title: Skills
       items:
+
+        - name: Machine Learning
+          description: Supervised Learning and Unsupervised Learning
+          icon: brain
+          icon_pack: fas
+
+        - name: Mathematics
+          description: Statistics,Calculus, Algorithms, Linear Algebra, Probability theory
+          icon: book
+          icon_pack: fas
+
         - name: Python
           description: Pandas, Numpy, Matplotlib, Seaborn, Sklearn
           icon: python
           icon_pack: fab
 
-        - name: SQL
-          description: 90%
+        - name: DataBases
+          description: Relational, SQL Database, SqlServer, PostGres, NoSql
           icon: database
           icon_pack: fas
 
-        - name: R
-          description: 90%
-          icon: r-project
+
+        - name: Programming
+          description: Python, SQL, R, Pyspark, Git, Bash, DAX
+          icon: code
+          icon_pack: fas
+
+        - name: MLops
+          description: In process Docker, Kubernets, MLflow
+          icon: skyatlas
           icon_pack: fab
 
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+
+        - name: Mechanic
+          description: 
+          icon: car
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
+
 
 
   - block: experience
