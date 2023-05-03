@@ -58,12 +58,12 @@ sections:
           icon_pack: fas
 
         - name: Mathematics
-          description: Statistics,Calculus, Algorithms, Linear Algebra, Probability theory
+          description: Statistics,Calculus, Algorithms, Linear Algebra, Probability theory, Data Mining
           icon: book
           icon_pack: fas
 
         - name: Python
-          description: Pandas, Numpy, Matplotlib, Seaborn, Sklearn
+          description: Pandas, Numpy, Matplotlib, Seaborn, Sklearn...
           icon: python
           icon_pack: fab
 
@@ -76,6 +76,11 @@ sections:
         - name: Programming
           description: Python, SQL, R, Pyspark, Git, Bash, DAX
           icon: code
+          icon_pack: fas
+
+        - name: Data Analysis
+          description: Visualization Power BI, Cognos
+          icon: chart-line
           icon_pack: fas
 
         - name: MLops
@@ -103,27 +108,83 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Data Science Specialist
+          company: MODERNA ALIMENTOS
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: ma
+          location: Quito - Ecuador
+          date_start: '2023-01-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              Data Analytics in the Industry:
+             
+              * Creation of analytical solutions in the field of food industry.
+              * Construction of the complete lifecycle of a Machine Learning model.
+              * Creation of dashboards for performance evaluation in the industry.
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Data Scientist
+          company: BANCO PICHINCHA
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: bp
+          location: Quito - Ecuador
+          date_start: '2022-09-01'
+          date_end: '2023-01-01'
+          description: |2-
+              Advanced Analytics:
+              * Building analytical solutions that allow optimal portfolio management according to Financial Risk.
+              * Risk modeling in Credit Cards.
+              * Data Science and cloud-based data analysis.
+              * Maintaining, executing, and presenting advanced analytics models.Taught electronic engineering and researched semiconductor physics.
+
+
+        - title: Data Scientist
+          company: COOP. DE AHORRO Y CRÉDITO MAQUITA CUSHUNCHIC
+          company_url: ''
+          company_logo: mc
+          location: Quito - Ecuador
+          date_start: '2022-07-01'
+          date_end: '2022-09-01'
+          description: |2-
+              Applying data science and analytics in the financial sector: 
+              * Creating dashboards for financial performance evaluation. 
+              * Building data flows in the cloud. 
+              * Automating ETL processes. 
+              * Analyzing and developing risk and score models.
+              
+
+
+
+        - title: External Consultant
+          company: YouNeed
+          company_url: ''
+          company_logo: yn
+          location: Bogota - Colombia
+          date_start: '2021-10-01'
+          date_end: '2022-06-01'
+          description: |2-
+              Consultant for problem-solving related to:
+              * Teaching and development of supervised and unsupervised machine learning
+              * Handling of data analytics and machine learning in both high-level and low-level programming languages
+              * Data science and cloud-based data analytics
+              * Automation and review of ETL (Extract, Transform and Load) processes
+              * Business intelligence and creation of dashboards using cloud-based tools
+              
+        - title: Data Analyst
+          company: INGELSI CIA. LTDA
+          company_url: ''
+          company_logo: ig
+          location: Quito - Ecuador
+          date_start: '2020-10-01'
+          date_end: '2021-06-01'
+          description: |2-
+              Application of mathematical modeling in artificial intelligence. 
+              * Construction of Text Mining models for application in social networks. 
+              * Application of NLP (Natural Language Processing) for sentiment analysis. 
+              * Extracting text from the web and social media using web scraping. 
+              * Pre-processing, processing, and data mining. 
+              * Creation of supervised and unsupervised models.
+          
+
     design:
       columns: '2'
   - block: accomplishments
@@ -147,6 +208,10 @@ sections:
           organization_url: https://www.coursera.org
           title: Neural Networks and Deep Learning
           url: ''
+
+
+
+          
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
@@ -252,6 +317,8 @@ sections:
     design:
       columns: '2'
       view: citation
+
+
   - block: collection
     id: talks
     content:
@@ -267,51 +334,42 @@ sections:
       title: Popular Topics
     design:
       columns: '2'
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
+      
+######################################      
+  # - block: contact
+  #   id: contact
+  #   content:
+  #     title: Contact
+  #     subtitle:
+  #     text: |-
+  #       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+  #     # Contact (add or remove contact options as necessary)
+      
+      
+      
+  #     email: 
+  #     phone: 
+  #     appointment_url: 
+  #     address:
+  #       street:
+  #       city: Quito
+  #       region: 
+  #       postcode: '170809'
+  #       country: Ecuador
+  #       country_code: EC
+  #     directions: 
+
+
+  #     # Automatically link email and phone or display as text?
+  #     autolink: true
+  #     # Email form provider
+  #     form:
+  #       provider: netlify
+  #       formspree:
+  #         id:
+  #       netlify:
+  #         # Enable CAPTCHA challenge to reduce spam?
+  #         captcha: false
+  #   design:
+  #     columns: '2'
 ---
