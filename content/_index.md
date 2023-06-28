@@ -108,19 +108,26 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Data Science Specialist
-          company: MODERNA ALIMENTOS
+        - title: Freelance Data Science Specialist
+          company: Freelance
           company_url: ''
-          company_logo: ma
+          company_logo: 
           location: Quito - Ecuador
           date_start: '2023-01-01'
           date_end: ''
           description: |2-
-              Data Analytics in the Industry:
+              Projects related to Data Analytics in :
+
+              * Ingelsi Cia Ltda 
+              * * Management of IBM Cloud Pak for Data. 
+              * * Cloud analytics solutions.
+              * Moderna Alimentos (finalized) 
+              * * Construction of the complete life cycle of a Churn Model - Machine Learning.
+              * * Creation of dashboards for performance evaluation.
              
-              * Creation of analytical solutions in the field of food industry.
-              * Construction of the complete lifecycle of a Machine Learning model.
-              * Creation of dashboards for performance evaluation in the industry.
+
+
+
 
         - title: Data Scientist
           company: BANCO PICHINCHA
@@ -137,53 +144,56 @@ sections:
               * Maintaining, executing, and presenting advanced analytics models.Taught electronic engineering and researched semiconductor physics.
 
 
+        # - title: Data Scientist
+        #   company: COOP. DE AHORRO Y CRÉDITO MAQUITA CUSHUNCHIC
+        #   company_url: ''
+        #   company_logo: mc
+        #   location: Quito - Ecuador
+        #   date_start: '2022-07-01'
+        #   date_end: '2022-09-01'
+        #   description: |2-
+        #       Applying data science and analytics in the financial sector: 
+        #       * Creating dashboards for financial performance evaluation. 
+        #       * Building data flows in the cloud. 
+        #       * Automating ETL processes. 
+        #       * Analyzing and developing risk and score models.
+              
+
+
+
+        # - title: External Consultant
+        #   company: YouNeed
+        #   company_url: ''
+        #   company_logo: yn
+        #   location: Bogota - Colombia
+        #   date_start: '2021-10-01'
+        #   date_end: '2022-06-01'
+        #   description: |2-
+        #       Consultant for problem-solving related to:
+        #       * Teaching and development of supervised and unsupervised machine learning
+        #       * Handling of data analytics and machine learning in both high-level and low-level programming languages
+        #       * Data science and cloud-based data analytics
+        #       * Automation and review of ETL (Extract, Transform and Load) processes
+        #       * Business intelligence and creation of dashboards using cloud-based tools
+              
         - title: Data Scientist
-          company: COOP. DE AHORRO Y CRÉDITO MAQUITA CUSHUNCHIC
-          company_url: ''
-          company_logo: mc
-          location: Quito - Ecuador
-          date_start: '2022-07-01'
-          date_end: '2022-09-01'
-          description: |2-
-              Applying data science and analytics in the financial sector: 
-              * Creating dashboards for financial performance evaluation. 
-              * Building data flows in the cloud. 
-              * Automating ETL processes. 
-              * Analyzing and developing risk and score models.
-              
-
-
-
-        - title: External Consultant
-          company: YouNeed
-          company_url: ''
-          company_logo: yn
-          location: Bogota - Colombia
-          date_start: '2021-10-01'
-          date_end: '2022-06-01'
-          description: |2-
-              Consultant for problem-solving related to:
-              * Teaching and development of supervised and unsupervised machine learning
-              * Handling of data analytics and machine learning in both high-level and low-level programming languages
-              * Data science and cloud-based data analytics
-              * Automation and review of ETL (Extract, Transform and Load) processes
-              * Business intelligence and creation of dashboards using cloud-based tools
-              
-        - title: Data Analyst
           company: INGELSI CIA. LTDA
           company_url: ''
           company_logo: ig
           location: Quito - Ecuador
-          date_start: '2020-10-01'
-          date_end: '2021-06-01'
+          date_start: '2020-05-01'
+          date_end: '2022-07-01'
           description: |2-
-              Application of mathematical modeling in artificial intelligence. 
-              * Construction of Text Mining models for application in social networks. 
-              * Application of NLP (Natural Language Processing) for sentiment analysis. 
-              * Extracting text from the web and social media using web scraping. 
-              * Pre-processing, processing, and data mining. 
-              * Creation of supervised and unsupervised models.
-          
+              Consulting for the solution of problems related to : 
+              * Creation of supervised and unsupervised Machine Learning models with high and low level languages.
+              * Teaching and development of supervised and unsupervised Machine Learning 
+              * Data science and data analytics in cloud computing. 
+              * Automation and review of ETL (Extract, Transform and Load) processes. 
+              * Business intelligence and Dasboard creation. 
+              * Creation of mathematical scoring and fraud models. 
+              * Application of NLP (Natural Language Procesing) for sentiment analysis. 
+              * Pre-processing, processing and data mining.
+              * Administration and creation of structured databases.
 
     design:
       columns: '2'

@@ -71,7 +71,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/CV_Jhon_Nacata.pdf
+    link: uploads/Jhon_Glidden_Nacata_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
