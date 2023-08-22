@@ -14,7 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Data Science Specialist
+role: Data Science Specialist 
+
+#{{< p dir="rtl" >}} Hola mundo {{< /p >}}
+#jhon #{{< scrolling-text >}}Tu texto animado aquí{{< /scrolling-text >}}
+
+#Data Science Specialist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -42,6 +47,9 @@ education:
     - course: Ing. Matemática
       institution: Escuela Politécnica Nacional
       year: 2021
+    # - course: Ing. Matemática
+    #   institution: Escuela Politécnica Nacional
+    #   year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
