@@ -134,7 +134,7 @@ sections:
         - title: Data Scientist
           company: BANCO PICHINCHA
           company_url: ''
-          company_logo: bp
+          company_logo: 
           location: Quito - Ecuador
           date_start: '2022-09-01'
           date_end: '2023-01-01'
@@ -181,7 +181,7 @@ sections:
         - title: Data Scientist
           company: INGELSI CIA. LTDA
           company_url: ''
-          company_logo: ig
+          company_logo: 
           location: Quito - Ecuador
           date_start: '2020-05-01'
           date_end: '2022-07-01'

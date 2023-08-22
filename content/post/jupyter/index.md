@@ -4,11 +4,12 @@ subtitle: Learn how to blog in Academic using Jupyter notebooks
 summary: Learn how to blog in Academic using Jupyter notebooks
 authors:
   - admin
-tags: []
+tags:
+- Jupyter
 categories: []
 projects: []
 date: '2023-02-05T00:00:00Z'
-lastMod: '2023-09-05T00:00:00Z'
+lastMod: '2023-07-05T00:00:00Z'
 image:
   caption: ''
   focal_point: ''

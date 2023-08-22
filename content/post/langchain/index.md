@@ -4,7 +4,8 @@ subtitle:
 summary: Como entrenar tu LLm con Langchain
 authors:
 - admin
-tags: []
+tags:
+- LLM
 categories: []
 date: "2023-02-05T00:00:00Z"
 lastMod: "2023-09-05T00:00:00Z"
