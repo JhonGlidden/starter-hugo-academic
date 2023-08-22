@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
+date: 2023-06-05
 type: landing
 
 sections:
@@ -118,8 +118,8 @@ sections:
           description: |2-
               Projects related to Data Analytics in :
               * DocumentCloud
-              * * Manejo de APIs de la nube para la extracción y estructuración de texto de imágenes o PDFs.
-              * * Creación y manejo de proyectos.
+              * * Management of cloud APIs for extracting and structuring text from images or PDFs.
+              * * Creation and management of projects.
               * Ingelsi Cia Ltda 
               * * Management of IBM Cloud Pak for Data. 
               * * Cloud analytics solutions.
