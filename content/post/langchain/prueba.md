@@ -7,7 +7,7 @@ authors:
 tags: []
 categories: []
 date: "2023-02-05T00:00:00Z"
-lastMod: "2034-09-05T00:00:00Z"
+lastMod: "2023-09-05T00:00:00Z"
 featured: false
 draft: false
 
@@ -26,7 +26,9 @@ image:
 projects: []
 ---
 
-# Prueba de Ingreso: Implementación de un Large Language Model
+# Implementación de un Large Language Model con Langchain
+
+El proyecto completo con sus dependencias se encuentra en https://github.com/JhonGlidden/Langchain 
 
 ## Introducción
 El avance de la inteligencia artificial y el aprendizaje profundo ha llevado a la creación de modelos de lenguaje altamente sofisticados y capaces. En este proyecto, buscamos aprovechar estos avances para entrenar un Large Language Model (LLM) utilizando la API de OpenAI y el innovador framework Langchain.
@@ -173,7 +175,7 @@ documents[20]
 
 
 ```python
-OPENAI_API_KEY="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"
+OPENAI_API_KEY=""
 os.environ["OPENAI_API_KEY"] = OPENAI_API_KEY
 
 ```
